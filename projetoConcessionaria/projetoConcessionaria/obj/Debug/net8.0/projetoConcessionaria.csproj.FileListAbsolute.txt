@@ -1,0 +1,7 @@
+C:\Users\Jean\Desktop\projetoConcessionaria\projetoConcessionaria\obj\Debug\net8.0\projetoConcessionaria.csproj.AssemblyReference.cache
+C:\Users\Jean\Desktop\projetoConcessionaria\projetoConcessionaria\obj\Debug\net8.0\projetoConcessionaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\projetoConcessionaria\projetoConcessionaria\obj\Debug\net8.0\projetoConcessionaria.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\projetoConcessionaria\projetoConcessionaria\obj\Debug\net8.0\projetoConcessionaria.AssemblyInfo.cs
+C:\Users\Jean\Desktop\projetoConcessionaria\projetoConcessionaria\obj\Debug\net8.0\projetoConcessionaria.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\projetoConcessionaria\projetoConcessionaria\obj\Debug\net8.0\projetoConcessionaria.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jean\Desktop\projetoConcessionaria\projetoConcessionaria\obj\Debug\net8.0\projetoConcessionaria.MvcApplicationPartsAssemblyInfo.cache
